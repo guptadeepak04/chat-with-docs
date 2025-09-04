@@ -1,0 +1,19 @@
+1:-> DSA In python
+2:-> AI engineer
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Skill learn
+SQl
+cloud(aws..) 
+deployment(Docker,flask)
+Deployments
+Rainforcemaint
+CI/CD(pipeline)
+Computer vision
+
+
+20 days challenges
+1 DSA
+2 Skill learning
